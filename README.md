@@ -1,5 +1,7 @@
-These are some ready to use code snippets for OpenCV 
+# OpenCV
 
+These are some ready to use code snippets for OpenCV 
+mail-me: dknaix.github@gmail.com
 
 Modules Requirements:
 1.opencv-python
